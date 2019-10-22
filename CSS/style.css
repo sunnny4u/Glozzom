@@ -89,6 +89,23 @@
 	color: #000;
 }
 
+#pageheader1{
+	background: url('../img/image2.jpeg');
+	background-size: cover;
+	height: 200px;
+	background-attachment: fixed;
+
+}
+
+#sevice-table .card-title{
+	font-size: 30px;
+	font-style: bold;
+}
+
+#accordion a{
+	text-decoration: none;
+}
+
 @media(max-width: 767px){
 	#getstarted{
 		min-height: 300px;
